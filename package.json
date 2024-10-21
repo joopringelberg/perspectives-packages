@@ -1,0 +1,22 @@
+{
+  "name": "perspectives-packages",
+  "version": "1.0.0",
+  "description": "The packages.dhall file for all Purescript Perspectives packages.",
+  "main": "packages.dhall",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joopringelberg/perspectives-packages.git"
+  },
+  "keywords": [
+    "Perspectives"
+  ],
+  "author": "Joop Ringelberg",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/joopringelberg/perspectives-packages/issues"
+  },
+  "homepage": "https://github.com/joopringelberg/perspectives-packages#readme"
+}
